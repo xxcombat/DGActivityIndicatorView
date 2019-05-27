@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "e2ec7fd158a03c4af96f5d0d5577a97a9c9e85ad",
+  "iOS" : [
+    {
+      "name" : "DGActivityIndicatorView",
+      "hash" : "29fc4b86b1434f24985779bd8568bccb289bfba0f7ffae1e596e9840398d44a3"
+    }
+  ]
+}

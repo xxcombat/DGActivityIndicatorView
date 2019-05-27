@@ -1,0 +1,6 @@
+framework module DGActivityIndicatorView {
+  umbrella header "DGActivityIndicatorView.h"
+
+  export *
+  module * { export * }
+}
